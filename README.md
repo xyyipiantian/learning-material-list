@@ -54,4 +54,5 @@
 
 ## 其他
 
-1. [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
+1. [技术人员成长必备](https://github.com/Snailclimb/programmer-advancement)
+2. [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
