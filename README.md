@@ -53,5 +53,3 @@
 ## 其他
 
 1. [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
-
-GitHub：[计算机学习资料列表](https://github.com/NGLSL/learning-material-list)
