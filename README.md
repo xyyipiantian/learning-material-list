@@ -22,12 +22,13 @@
 
 ## 面试资料
 
-1. [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
-2. [计算机科学基础知识、Java开发、后端/服务端、面试相关](https://github.com/PansonPanson/Java-Notes)
-3. [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
-4. [设计模式Java版](https://github.com/iluwatar/java-design-patterns)
-5. [处于萌芽阶段的 Java 核心知识库](https://github.com/crossoverJie/JCSprout)
-6. [【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
+1. [Java服务端知识技能图谱](https://github.com/caison/java-knowledge-mind-map)
+2. [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
+3. [计算机科学基础知识、Java开发、后端/服务端、面试相关](https://github.com/PansonPanson/Java-Notes)
+4. [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+5. [设计模式Java版](https://github.com/iluwatar/java-design-patterns)
+6. [处于萌芽阶段的 Java 核心知识库](https://github.com/crossoverJie/JCSprout)
+7. [【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 
 ## 简历模板
 
